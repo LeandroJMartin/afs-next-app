@@ -1,0 +1,49 @@
+{
+  "name": "afs-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "babel-plugin-styled-components": "^1.10.6",
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "prettier-eslint": "^9.0.0"
+  },
+  "dependencies": {
+    "@hapi/joi": "^15.1.1",
+    "@u-wave/react-vimeo": "^0.8.1",
+    "async": "^3.2.0",
+    "date-fns": "^2.2.1",
+    "dotenv": "^8.2.0",
+    "googleapis": "^48.0.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "knex": "^0.19.3",
+    "mailgun-js": "^0.22.0",
+    "mjml": "^4.4.1",
+    "mongodb": "^3.3.2",
+    "next": "^9.3.3",
+    "nprogress": "^0.2.0",
+    "prop-types": "^15.7.2",
+    "query-string": "^6.8.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-gtm-module": "^2.0.8",
+    "react-responsive-carousel": "^3.2.9",
+    "react-reveal": "^1.2.2",
+    "react-spring": "^8.0.27",
+    "react-text-mask": "^5.4.3",
+    "serverless-mysql": "^1.5.1",
+    "sql-template-strings": "^2.2.2",
+    "styled-components": "^4.3.2"
+  }
+}

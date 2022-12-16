@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "scope": "p9armazem-team",
+  "env": {
+    "MONGODB_URI": "@afs_mongodb_uri",
+    "MONGODB_DBNAME": "@afs_mongodb_dbname",
+    "STORAGE_BASE_URL": "@afs_storage_base_url",
+    "MG_DOMAIN": "@afs_mg_domain",
+    "MG_API_KEY": "@afs_mg_api_key"
+  },
+  "build": {
+    "env": {
+      "API_URL": "@afs_api_url"
+    }
+  }
+}

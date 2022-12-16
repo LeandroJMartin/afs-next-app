@@ -1,0 +1,5 @@
+MONGODB_URI=mongodb+srv://siteafs:TuShcyLqTauqcOdZ@armazem.c9kw1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+MONGODB_DBNAME=afs
+MG_DOMAIN=devarmazem.p9.digital
+MG_API_KEY=6d0d4f0a23ba6f240327fe5b3bc4ae47-9c988ee3-f19cfe7b
+API_URL=https://armazemfitstore.com.br
